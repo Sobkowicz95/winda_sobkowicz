@@ -1,0 +1,349 @@
+I-Logix-RPY-Archive version 8.14.0 * 9810313
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- isLoadOnDemand = 0;
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 11;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 175;
+				- m_nTop = 175;
+				- m_nRight = 428;
+				- m_nBottom = 642;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "blokada_serwisowa";
+				- _name = "blokada serwisowa";
+				- _id = GUID e2d6ddaf-2c75-47e3-84ef-3448c503db1a;
+			}
+			- _UpLeft = 0 40 ;
+			- _DownRight = 216 428 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 10;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 225;
+				- m_nTop = 225;
+				- m_nRight = 1039;
+				- m_nBottom = 683;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "otworz_drzwi";
+				- _name = "otworz_drzwi";
+				- _id = GUID 4045175a-cb2c-436e-a88e-13f9c64d376b;
+			}
+			- _UpLeft = 0 20 ;
+			- _DownRight = 777 399 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 7;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 50;
+				- m_nTop = 50;
+				- m_nRight = 864;
+				- m_nBottom = 508;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "pietro_0";
+				- _name = "pietro_0";
+				- _id = GUID 69f5f49e-5fcb-460e-865f-4ed91fcd8cef;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 777 379 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 4;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 75;
+				- m_nTop = 75;
+				- m_nRight = 889;
+				- m_nBottom = 533;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "pietro_1";
+				- _name = "pietro_1";
+				- _id = GUID 8ab538c5-4438-42bb-bcf7-b1c294173be2;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 777 379 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 100;
+				- m_nTop = 100;
+				- m_nRight = 914;
+				- m_nBottom = 558;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "pietro_2";
+				- _name = "pietro_2";
+				- _id = GUID 1b77c08a-2885-4a7e-bb77-4df3450cbf29;
+			}
+			- _UpLeft = 316 0 ;
+			- _DownRight = 1093 379 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 200;
+				- m_nTop = 200;
+				- m_nRight = 1014;
+				- m_nBottom = 658;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "przywolaj_winde";
+				- _name = "przywolaj_winde";
+				- _id = GUID 0d8e49a1-7bad-46a0-8bd6-048f54ea5ea6;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1036 505 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 8;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 175;
+				- m_nTop = 175;
+				- m_nRight = 453;
+				- m_nBottom = 642;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "winda";
+				- _name = "StatechartDiagram";
+				- _id = GUID 9f772e93-b29d-4c5e-9d19-9ec9a588ae35;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 241 408 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 125;
+				- m_nTop = 125;
+				- m_nRight = 351;
+				- m_nBottom = 592;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "wybor_akcji";
+				- _name = "wybor_akcji";
+				- _id = GUID 2a29143f-832d-4558-9b27-632833aeb740;
+			}
+			- _UpLeft = 0 20 ;
+			- _DownRight = 199 428 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 5;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 814;
+				- m_nBottom = 458;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\winda_sobkowicz_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "zamknij_drzwi";
+				- _name = "sequencediagram_1";
+				- _id = GUID 3a263983-49d7-4e07-b187-4c905449e4ed;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 777 379 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 6;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 100;
+				- m_nTop = 100;
+				- m_nRight = 326;
+				- m_nBottom = 567;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _name = "Funkcje in Dafault";
+				- _id = GUID 142d6753-6927-41a3-a614-6f1ae386d883;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 222 480 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 9;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 50;
+				- m_nTop = 50;
+				- m_nRight = 193;
+				- m_nBottom = 511;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _name = "Model1";
+				- _id = GUID 0185a140-e3c8-45fe-b3ad-591596c42673;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 571 808 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+			- m_bIsActiveView = 1;
+		}
+	}
+	- _fullName = "C:\\Users\\student\\Desktop\\winda_sobkowicz\\winda_sobkowicz";
+	- _selectedPerspective = "Advanced";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingBrowserCustomView = 0;
+	- bApplyOnDiagrams = 0;
+	- liCustomViewIDs = { IRPYRawContainer 
+		- size = 0;
+	}
+	- mapOslcRmCollections = { IRPYRawContainer 
+		- size = 0;
+	}
+	- _ShowPerspectivesHint = "False";
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+
